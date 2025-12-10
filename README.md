@@ -35,6 +35,6 @@ You will find:
 
 ---
 
-I value clarity, structure, and meaningful work. Every project here reflects my effort to build reliable and thoughtful software.
+Thanks for visiting 🚀
 
 
