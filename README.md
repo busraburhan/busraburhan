@@ -5,14 +5,14 @@ Hello! I’m Büşra, a senior Computer Engineering student with a strong intere
 ---
 
 
-## 🤖 Technical Skills
+## Technical Skills
 - **Languages:** Python, C++, C, Java 
 - **Robotics:** ROS1/ROS2, Gazebo, RViz , Isaacsim 
 - **Tools:** Qt, PyQt, PostgreSQL, Git, Linux , Docker ,SpringBoot 
 
 ---
 
-## 📌 What I’m Learning
+## What I’m Learning
 - Image processing and machine learning fundamentals for my Research Project 
 - Autonomous navigation systems for robotics especially for rovers 
 - Database design and scalable data visualization
@@ -20,7 +20,7 @@ Hello! I’m Büşra, a senior Computer Engineering student with a strong intere
 
 ---
 
-## 📁 Repository Focus
+## Repository Focus
 You will find:
 - University projects
 - Machine learning experiments
@@ -29,7 +29,7 @@ You will find:
 
 ---
 
-## 📬 Contact
+## Contact
 - **LinkedIn:** www.linkedin.com/in/büşra-burhan-978421246
 - **Email:** busraburhaninfo@gmail.com 
 
