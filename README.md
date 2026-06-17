@@ -10,13 +10,6 @@ Hello! I’m Büşra, a senior Computer Engineering student with a strong intere
 - **Robotics:** ROS1/ROS2, Gazebo, RViz , Isaacsim 
 - **Tools:** Qt, PyQt, PostgreSQL, Git, Linux , Docker ,SpringBoot 
 
----
-
-## What I’m Learning
-- Image processing and machine learning fundamentals for my Research Project 
-- Autonomous navigation systems for robotics especially for rovers 
-- Database design and scalable data visualization
-- Full‑stack foundations while building my personal website
 
 ---
 
