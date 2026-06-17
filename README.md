@@ -1,8 +1,5 @@
 # Büşra Burhan – Computer Engineering Student
 
-Hello! I’m Büşra, a senior Computer Engineering student with a strong interest in robotics, artificial intelligence, and software development. I also enjoy working on projects related to space technologies, and I’m shaping my career in that direction. I value building solid, long-lasting work through disciplined effort, structured learning, understanding fundamentals, and improving step by step.
-
----
 
 
 ## Technical Skills
