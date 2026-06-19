@@ -5,7 +5,7 @@
 ## Technical Skills
 - **Languages:** Python, C++, C, Java 
 - **Robotics:** ROS1/ROS2, Gazebo, RViz , Isaacsim 
-- **Tools:** Qt, PyQt, PostgreSQL, Git, Linux , Docker ,SpringBoot 
+- **Tools:** Qt, PyQt, PostgreSQL, Git, Linux , Docker ,SpringBoot ,Django
 
 
 ---
