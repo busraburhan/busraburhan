@@ -1,4 +1,4 @@
-# Büşra Burhan – Computer Engineer Student ( i just graduadoooo ) 
+# Büşra Burhan – Computer Engineer Student 
 
 
 
